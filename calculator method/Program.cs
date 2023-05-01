@@ -92,7 +92,6 @@ namespace calculator_method
         }
 
     }
-    ///////
 
 
 
